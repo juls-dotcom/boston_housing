@@ -50,4 +50,4 @@ MANIFEST
 .venv*/
 
 # Jupyter notebook (for now)
-*.ipynb
+# *.ipynb
